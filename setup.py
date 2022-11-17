@@ -18,5 +18,5 @@ setup(
     url='https://github.com/AbdelrahmanShahrour/SHAWPACK',
     keywords=['NLP', 'text-data', 'AI', 'DS', 'Shahrour', 'arabic-py', 'arabic-nlp'],
     description="SHAWPACK NLP processing package",
-    packages=find_packages(include=['shawpack'])
+    packages=find_packages(include=['SHAWPACKNLP'])
 )
