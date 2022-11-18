@@ -4,7 +4,9 @@ setup.py
 SHAWPACKNLP/Normalization.py
 SHAWPACKNLP/Processor.py
 SHAWPACKNLP/__init__.py
-SHAWPACKNLP/constants.py
+SHAWPACKNLP/ar.py
+SHAWPACKNLP/en.py
+SHAWPACKNLP/general.py
 SHAWPACKNLP.egg-info/PKG-INFO
 SHAWPACKNLP.egg-info/SOURCES.txt
 SHAWPACKNLP.egg-info/dependency_links.txt

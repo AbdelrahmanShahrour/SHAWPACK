@@ -1,8 +1,8 @@
 import re
 
-from Constants.ar import *
-from Constants.en import *
-from Constants.general import *
+from ar import *
+from en import *
+from general import *
 
 
 class Normalization_ar:
