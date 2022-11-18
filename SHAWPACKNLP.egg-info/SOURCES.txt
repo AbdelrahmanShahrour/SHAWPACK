@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.py
+SHAWPACKNLP/Normalization.py
+SHAWPACKNLP/Processor.py
+SHAWPACKNLP/__init__.py
+SHAWPACKNLP/constants.py
+SHAWPACKNLP.egg-info/PKG-INFO
+SHAWPACKNLP.egg-info/SOURCES.txt
+SHAWPACKNLP.egg-info/dependency_links.txt
+SHAWPACKNLP.egg-info/requires.txt
+SHAWPACKNLP.egg-info/top_level.txt
