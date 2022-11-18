@@ -8,7 +8,7 @@ ver = '0.0.2'
 
 
 setup(
-    name='SHAWPACK',
+    name='SHAWPACKNLP',
     version= ver,
     install_requires=required,
     tests_require=['pytest'],
@@ -18,5 +18,10 @@ setup(
     url='https://github.com/AbdelrahmanShahrour/SHAWPACK',
     keywords=['NLP', 'text-data', 'AI', 'DS', 'Shahrour', 'arabic-py', 'arabic-nlp'],
     description="SHAWPACK NLP processing package",
-    packages=find_packages(include=['SHAWPACKNLP'])
+    packages=find_packages(include=['SHAWPACKNLP']),
+    classifiers=[
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+ ],
 )
