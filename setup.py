@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 with open('requirements.txt') as f:
     required = f.read().splitlines()
 description = 'Now with us, dealing with Arabic texts has become easy, and in the future it will become easier with us'
-ver = '0.0.2'
+ver = '0.3'
 
 
 setup(
